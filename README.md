@@ -14,10 +14,10 @@ Salut, heureux qu'on se retrouve ici ! :wave:
 ```
 <h3 align="left">Langages et outils: </h3>
 <p align="left"> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="html5" width="40" height="40"/> 
   </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="css3" width="40" height="40"/> 
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
@@ -26,7 +26,7 @@ Salut, heureux qu'on se retrouve ici ! :wave:
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="typescript" width="40" height="40"/> 
   </a> 
-        <a href="[https://code.visualstudio.com/](https://www.python.org/)" target="_blank" rel="noreferrer"> 
+        <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="python" width="40" height="40"/> 
   </a> 
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
@@ -38,14 +38,14 @@ Salut, heureux qu'on se retrouve ici ! :wave:
   <a href="https://github.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="github" width="40" height="40"/> 
   </a> 
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> 
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" title="express" width="40" height="40"/> 
   </a> 
 </p>
 
 <h3 align="left">Langages que j'apprends : </h3>
 <p align="left">
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> 
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" title="kotlin" width="40" height="40"/> 
   </a> 
 </p>
