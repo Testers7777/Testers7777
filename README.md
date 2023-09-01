@@ -43,6 +43,13 @@ Salut, heureux qu'on se retrouve ici ! :wave:
   </a> 
 </p>
 
+<h3 align="left">Langages que j'apprends : </h3>
+<p align="left">
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
+  </a> 
+</p>
+
 ## 🔬Derniers Travaux
 [![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=Testers7777&repo=Pierre-Papier-Ciseaux&theme=discord_old_blurple&hide_border=true&bg_color=343942)](https://github.com/Testers7777/Pierre-Papier-Ciseaux)
 [![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=Testers7777&repo=Shoes-store&theme=discord_old_blurple&hide_border=true&bg_color=343942)](https://github.com/Testers7777/Shoes-store)
