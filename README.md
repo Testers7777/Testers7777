@@ -3,7 +3,6 @@ Salut, heureux qu'on se retrouve ici ! :wave:
 ## Mes informations
 
 - 🔭 Me contacter : [mon compte discord](https://discord.com/users/737355664682123313)
-- 🌱 Je développe mes projets en langage **aoi.js**, **discord.py**, **html**, **css**, **js** ou même **typescript**
 - ⚙️ [Mon projet du moment](https://ts-sky.github.io/)
 
 ## Qui suis-je ?
