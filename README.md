@@ -9,6 +9,7 @@ Salut, heureux qu'on se retrouve ici ! :wave:
 ```
 • Je m'appelle Tiago.
 • Je suis au collège.
+• J'essaye d'apprendre les échecs.
 • J'aime bien discuter, coder ou même aider alors n'hésites pas à venir me mp sur discord !
 ```
 <h3 align="left">Langages et outils: </h3>
