@@ -51,8 +51,8 @@ Salut, heureux qu'on se retrouve ici ! :wave:
 </p>
 
 ## 🔬Derniers Travaux
-[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=Testers7777&repo=Pierre-Papier-Ciseaux&theme=discord_old_blurple&hide_border=true&bg_color=343942)](https://github.com/Testers7777/Pierre-Papier-Ciseaux)
-[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=Testers7777&repo=Shoes-store&theme=discord_old_blurple&hide_border=true&bg_color=343942)](https://github.com/Testers7777/Shoes-store)
+[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=Testers7777&repo=Are-you-gay&theme=discord_old_blurple&hide_border=true&bg_color=343942)](https://github.com/Testers7777/Are-you-gay)
+[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=Testers7777&repo=Flags-icons&theme=discord_old_blurple&hide_border=true&bg_color=343942)](https://github.com/Testers7777/Flags-icons)
 
 ## 📈Statistiques GitHub
 
