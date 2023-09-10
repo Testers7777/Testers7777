@@ -2,7 +2,7 @@ Salut, heureux qu'on se retrouve ici ! :wave:
 
 ## Mes informations
 
-- 🔭 Me contacter : [mon compte discord](https://discord.com/users/737355664682123313)
+- 🔭 Me contacter : diislayoverthinker@gmail.com
 - ⚙️ [Mon projet du moment](https://ts-sky.github.io/)
 
 ## Qui suis-je ?
@@ -12,6 +12,10 @@ Salut, heureux qu'on se retrouve ici ! :wave:
 • J'essaye d'apprendre les échecs.
 • J'aime bien discuter, coder ou même aider alors n'hésites pas à venir me mp sur discord !
 ```
+
+## Mon compte discord
+[![Discord Presence](https://lanyard.cnrad.dev/api/737355664682123313)](https://discord.com/users/737355664682123313)
+
 <h3 align="left">Langages et outils: </h3>
 <p align="left"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
