@@ -1,4 +1,4 @@
-Salut, heureux qu'on se retrouve ici ! :wave:
+#### Salut, heureux qu'on se retrouve ici ! :wave:
 
 ## Mes informations
 
@@ -15,7 +15,7 @@ Salut, heureux qu'on se retrouve ici ! :wave:
 ## Mon compte discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/737355664682123313)](https://discord.com/users/737355664682123313)
 
-<h3 align="left">Langages et outils: </h3>
+## Langages et outils:
 <p align="left"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="html5" width="40" height="40"/> 
@@ -46,7 +46,7 @@ Salut, heureux qu'on se retrouve ici ! :wave:
   </a> 
 </p>
 
-<h3 align="left">Langages et outils que j'apprends : </h3>
+## Langages et outils que j'apprends :
 <p align="left">
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" title="kotlin" width="40" height="40"/> 
