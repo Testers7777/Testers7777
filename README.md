@@ -10,7 +10,7 @@ Salut, heureux qu'on se retrouve ici ! :wave:
 • Je m'appelle Tiago.
 • Je suis au collège.
 • J'essaye d'apprendre les échecs.
-• J'aime bien discuter, coder ou même aider alors n'hésites pas à venir me mp sur discord !
+• J'aime bien discuter, aider ou même jouer alors n'hésites pas à venir me mp sur discord !
 ```
 
 ## Mon compte discord
