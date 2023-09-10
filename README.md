@@ -43,10 +43,13 @@ Salut, heureux qu'on se retrouve ici ! :wave:
   </a> 
 </p>
 
-<h3 align="left">Langages que j'apprends : </h3>
+<h3 align="left">Langages et outils que j'apprends : </h3>
 <p align="left">
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" title="kotlin" width="40" height="40"/> 
+  </a> 
+  <a href="https://threejs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" title="threeJs" width="40" height="40"/> 
   </a> 
 </p>
 
