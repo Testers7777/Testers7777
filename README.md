@@ -69,15 +69,15 @@
 </a>
 
 <a href="https://github.com/Testers7777">
-  <img align="center" style="margin:0.5rem" alt="tester's stats" src="https://github-readme-stats.vercel.app/api?username=Testers7777&show_icons=true&count_private=true&theme=discord_old_blurple&hide_border=true&bg_color=161b22"/></a>
+  <img align="center" style="margin:0.5rem" title="tester's stats" src="https://github-readme-stats.vercel.app/api?username=Testers7777&show_icons=true&count_private=true&theme=discord_old_blurple&hide_border=true&bg_color=161b22"/></a>
 </a>
 <a href="https://github.com/Testers7777">
-  <img align="center" style="margin:0.5rem" alt="tester's stats" src="http://github-readme-streak-stats.herokuapp.com?user=Testers7777&theme=gruvbox&date_format=j%20M%5B%20Y%5D"/></a>
+  <img align="center" style="margin:0.5rem" title="tester's stats" src="http://github-readme-streak-stats.herokuapp.com?user=Testers7777&theme=gruvbox&date_format=j%20M%5B%20Y%5D"/></a>
 </a>
 <a href="https://github.com/Testers7777">
-  <img align="center" style="margin:0.5rem" alt="tester's stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Testers7777&theme=gruvbox"/></a>
+  <img align="center" style="margin:0.5rem" title="tester's stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Testers7777&theme=gruvbox"/></a>
 </a>
 <a href="https://github.com/Testers7777">
-<img align="center" style="margin:0.5rem" alt="tester's stats" src="https://github-profile-trophy.vercel.app/?username=Testers7777&theme=gruvbox"/></a>
+<img align="center" style="margin:0.5rem" title="tester's stats" src="https://github-profile-trophy.vercel.app/?username=Testers7777&theme=gruvbox"/></a>
 </a>
 <br>
