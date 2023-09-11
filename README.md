@@ -3,7 +3,7 @@
 ## Mes informations
 
 - 🔭 Me contacter : diislayoverthinker@gmail.com
-- ⚙️ [Mon projet du moment](https://ts-sky.github.io/)
+- ⚙️ [Mon projet du moment](https://st-sky.cyclic.app/)
 
 ## Qui suis-je ?
 ```
