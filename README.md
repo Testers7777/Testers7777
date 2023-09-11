@@ -1,80 +1,31 @@
-#### Salut, heureux qu'on se retrouve ici ! :wave:
-
-## Mes informations
-
-- 🔭 Me contacter : diislayoverthinker@gmail.com
-- ⚙️ [Mon projet du moment](https://st-sky.cyclic.app/)
-
-## Qui suis-je ?
+```javascript
+const aboutMe = {
+   code: ["Python", "Javascript", "Typescript", "HTML5", "CSS3"],
+   tools: ["Express.Js", "Tkinter"],
+   work: "Developer front and back-end",
+   objective: "My objective is to know several languages and create famous projects",
+   recentProjects: [
+      {
+         name: "Are you gay ?",
+         description: "I will let you make your own description about this project",
+         link: "https://github.com/Testers7777/Are-you-gay"
+      },
+      {
+         name: "Python calculatrice",
+         description: "A simple calculatrice made with tkinter",
+         link: "https://github.com/Testers7777/Python-calculatrice"
+      }
+   ],
+   languages: ["English", "French"],
+   education: "I'm at middle school"
+};
 ```
-• Je m'appelle Tiago.
-• Je suis au collège.
-• J'essaye d'apprendre les échecs.
-```
 
-## Mon compte discord
-[![Discord Presence](https://lanyard.cnrad.dev/api/737355664682123313)](https://discord.com/users/737355664682123313)
-
-## Langages et outils:
-<p align="left"> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="javascript" width="40" height="40"/> 
-  </a> 
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="typescript" width="40" height="40"/> 
-  </a> 
-        <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="vscode" width="40" height="40"/> 
-  </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="github" width="40" height="40"/> 
-  </a> 
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" title="express" width="40" height="40"/> 
-  </a> 
-</p>
-
-## Langages et outils que j'apprends :
-<p align="left">
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" title="kotlin" width="40" height="40"/> 
-  </a> 
-  <a href="https://threejs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" title="threeJs" width="40" height="40"/> 
-  </a> 
-</p>
-
-## 🔬Derniers Travaux
-[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=Testers7777&repo=Are-you-gay&theme=discord_old_blurple&hide_border=true&bg_color=343942)](https://github.com/Testers7777/Are-you-gay)
-[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=Testers7777&repo=Flags-icons&theme=discord_old_blurple&hide_border=true&bg_color=343942)](https://github.com/Testers7777/Flags-icons)
-
-## 📈Statistiques GitHub
-
-<br>
+---
 
 <a href="https://github.com/Testers7777">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Testers7777&title_color=6377bd&text_color=c9cacc&icon_color=4AB197&bg_color=161b22&hide_border=true&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Testers7777&theme=dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Testers7777&theme=dark&layout=compact&show_icons=true"/>
 </a>
 
-<a href="https://github.com/Testers7777">
-  <img align="center" style="margin:0.5rem" title="tester's stats" src="https://github-readme-stats.vercel.app/api?username=Testers7777&show_icons=true&count_private=true&theme=discord_old_blurple&hide_border=true&bg_color=161b22"/></a>
-</a>
-<a href="https://github.com/Testers7777">
-  <img align="center" style="margin:0.5rem" title="tester's stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Testers7777&theme=gruvbox"/></a>
-</a>
-<a href="https://github.com/Testers7777">
-<img align="center" style="margin:0.5rem" title="tester's stats" src="https://github-profile-trophy.vercel.app/?username=Testers7777&theme=gruvbox"/></a>
-</a>
-<br>
+---
