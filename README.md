@@ -4,6 +4,7 @@ const aboutMe = {
    tools: ["Express.Js", "Tkinter"],
    work: "Developer front and back-end",
    objective: "My objective is to know several languages and create famous projects",
+   soonProject: "2D game with LÖVE in lua",
    recentProjects: [
       {
          name: "Are you gay ?",
