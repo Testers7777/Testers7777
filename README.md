@@ -1,7 +1,7 @@
 ```javascript
 const aboutMe = {
-   code: ["Python", "Javascript", "Typescript", "HTML5", "CSS3"],
-   tools: ["Express.Js", "Tkinter"],
+   code: ["Python", "Javascript", "Typescript", "Lua", "HTML5", "CSS3"],
+   tools: ["Express.Js", "Tkinter", "Löve2D"],
    work: "Developer front and back-end",
    objective: "My objective is to know several languages and create famous projects",
    soonProject: "2D game with LÖVE in lua",
