@@ -13,7 +13,7 @@ const aboutMe = {
       },
       {
          name: "Python calculatrice",
-         description: "A simple calculatrice made with tkinter",
+         description: "A simple calculatrice made with tkinter in python",
          link: "https://github.com/Testers7777/Python-calculatrice"
       }
    ],
