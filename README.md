@@ -4,12 +4,12 @@ const aboutMe = {
    tools: ["Express.Js", "Tkinter", "Löve2D"],
    work: "Developer front and back-end",
    objective: "My objective is to know several languages and create famous projects",
-   soonProject: "2D game with LÖVE in lua",
+   soonProject: " ?? ",
    recentProjects: [
       {
-         name: "Are you gay ?",
-         description: "I will let you make your own description about this project",
-         link: "https://github.com/Testers7777/Are-you-gay"
+         name: "love2d-game",
+         description: "A 2d game made to train my skills and for ppl that want learn",
+         link: "https://github.com/Testers7777/love2d-game"
       },
       {
          name: "Python calculatrice",
