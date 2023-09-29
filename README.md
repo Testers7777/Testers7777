@@ -1,4 +1,4 @@
-<span style="break-word: all">```javascript
+```javascript
 const aboutMe = {
    code: ["Python", "Javascript", "Typescript", "Lua", "HTML5", "CSS3"],
    tools: ["Express.Js", "Tkinter", "Löve2D", "socket.io"],
@@ -20,7 +20,7 @@ const aboutMe = {
    languages: ["English", "French"],
    education: "I'm at middle school"
 };
-```</span>
+```
 
 ---
 
