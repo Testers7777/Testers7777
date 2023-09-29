@@ -3,7 +3,7 @@ const aboutMe = {
    code: ["Python", "Javascript", "Typescript", "Lua", "HTML5", "CSS3"],
    tools: ["Express.Js", "Tkinter", "Löve2D", "socket.io"],
    work: "Developer front and back-end",
-   objective: "My objective is to know several languages and create famous projects",
+   objective: "My objective is to know several languages and create famous projects and also to be a great play at chest",
    soonProject: " ?? ",
    recentProjects: [
       {
