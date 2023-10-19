@@ -31,6 +31,6 @@ const aboutMe = {
 
 ---
 
-<img height="180em" src="https://github-profile-trophy.vercel.app/?username=Testers7777&rank=SECRET,SSS,SS,S,AAA,AA,A,,C,B&theme=apprentice"/>
+<img height="180em" src="https://github-profile-trophy.vercel.app/?username=Testers7777&rank=SECRET,SSS,SS,S,AAA,AA,A,,C,B&theme=discord&margin-w=10&no-frame=true"/>
 
 ---
