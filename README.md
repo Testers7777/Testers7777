@@ -7,14 +7,14 @@ const aboutMe = {
    soonProject: "Application in kotlin !!",
    recentProjects: [
       {
-         name: "love2d-game",
-         description: "A 2d game made to train my skills and for ppl that want learn",
-         link: "https://github.com/Testers7777/love2d-game"
+         name: "Virtual keyboard",
+         description: "a virtual keyboard",
+         link: "https://github.com/Testers7777/virtual-keyboard"
       },
       {
-         name: "Python calculatrice",
-         description: "A simple calculatrice made with tkinter in python",
-         link: "https://github.com/Testers7777/Python-calculatrice"
+         name: "Double page",
+         description: "Two pages on only one",
+         link: "https://github.com/Testers7777/double-page"
       }
    ],
    languages: ["English", "French"],
