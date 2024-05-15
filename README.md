@@ -4,7 +4,7 @@ const aboutMe = {
    tools: ["Express.Js", "Tkinter", "Löve2D", "socket.io"],
    work: "Developer front and back-end",
    objective: "My objective is to know several languages and create famous projects",
-   soonProject: "Application in kotlin !!",
+   soonProject: "A very cool love2d game 😎",
    recentProjects: [
       {
          name: "Virtual keyboard",
