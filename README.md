@@ -13,7 +13,7 @@ const aboutMe = {
       },
       {
          name: "Double page",
-         description: "Two pages on only one",
+         description: "Double pages with one interface",
          link: "https://github.com/Testers7777/double-page"
       }
    ],
