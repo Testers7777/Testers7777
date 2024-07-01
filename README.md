@@ -1,25 +1,5 @@
 ```javascript
-const aboutMe = {
-   code: ["Python", "Javascript", "Typescript", "Lua", "HTML5", "CSS3"],
-   tools: ["Express.Js", "Tkinter", "Löve2D", "socket.io"],
-   work: "Developer front and back-end",
-   objective: "My objective is to know several languages and create famous projects",
-   soonProject: "A very cool love2d game 😎",
-   recentProjects: [
-      {
-         name: "Virtual keyboard",
-         description: "a virtual keyboard",
-         link: "https://github.com/Testers7777/virtual-keyboard"
-      },
-      {
-         name: "Double page",
-         description: "Double pages with one interface",
-         link: "https://github.com/Testers7777/double-page"
-      }
-   ],
-   languages: ["English", "French"],
-   education: "I'm at middle school"
-};
+const aboutMe = "Who cares ?"
 ```
 
 ---
