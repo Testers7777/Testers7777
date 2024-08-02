@@ -1,5 +1,5 @@
 ```javascript
-const aboutMe = "Who cares ?"
+const aboutMe = "Si vous cherchez à en savoir plus, vous êtes déjà sur la bonne voie. Mais pourquoi ne pas rester un mystère ?";
 ```
 
 ---
