@@ -1,5 +1,5 @@
 ```javascript
-const aboutMe = "Si vous cherchez à en savoir plus, vous êtes déjà sur la bonne voie. Mais pourquoi ne pas rester sur un mystère ?";
+const aboutMe = "If you’re looking to learn more, you’re already on the right track. But why not stick with a mystery?";
 ```
 
 ---
