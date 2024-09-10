@@ -2,7 +2,7 @@
 while (isAlive) {
 	wakeUp();
 	pray();
-	eat();
+	eat("eggs");
 	if (isWeekDay) {
 		school();
 	} else {
