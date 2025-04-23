@@ -1,5 +1,3 @@
- <blockquote>
-<hr>
 <p align="center">
  <a href="https://github.com/denvercoder1/readme-typing-svg" target="_blank">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=5000&center=true&vCenter=true&lines=Testers7777">
@@ -18,6 +16,30 @@
     <img src="https://img.shields.io/badge/-DISCORD-blue?logo=discord&labelColor=2a2a2a&color=2a2a2a">
   </a>
 </p>
+
+<hr>
+
+```py
+:: SYSTEM BOOT v1.07
+
+[ OK ] BIOS Check Complete
+[ OK ] Memory Integrity: VERIFIED
+[ OK ] GitHub Connection: AUTHORIZED as @Testers7777
+
+> Detected Identity: Tiago (alias: Testers7777)
+> Age: 15 | Field: Commerce | Mode: Indie dev
+
+⏳ Initializing dev core...
+    - Loading engine.py ........... OK
+    - Loading physics_engine.py ... OK
+    - Loading assets/spritesheet.png ... OK
+    - Loading map_generator.py ..... OK
+
+⚡ Launching IDE...
+
+>>> SYSTEM READY.
+```
+
 <hr>
  
 <details open>
@@ -28,31 +50,26 @@
     
 <pre>
 <b>My hobbies</b>
-<a href="https://en.wikipedia.org/wiki/Poetry">📕 Poetry</a>, <a href="https://en.wikipedia.org/wiki/Chess">♟️ Chess</a>, <a href="https://en.wikipedia.org/wiki/Coding">💻 Coding</a>, <a href="https://en.wikipedia.org/wiki/Strength_training">🏋️‍♂️ Gym</a>, <a href="https://en.wikipedia.org/wiki/Video_game">🎮 Video games</a>.
+<a href="https://en.wikipedia.org/wiki/Poetry">📕 Poetry</a>, <a href="https://en.wikipedia.org/wiki/Chess">♟️ Chess</a>, <a href="https://en.wikipedia.org/wiki/Coding">💻 Coding</a>, <a href="https://en.wikipedia.org/wiki/Strength_training">🏋️‍♂️ Gym</a>.
 </pre>
 </details>
  
 <hr> 
 <details>
     <summary>
-        <b>🖥️ LANGUAGES I USE : </b>
+        <b>🖥️ LANGUAGES AND TOOLS : </b>
     </summary>
  <p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-   <img alt="HTML5" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="52px" width="52px">
-  </a> &nbsp; |
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-   <img alt="CSS3" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="52px" width="52px">
-  </a> &nbsp; |
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-   <img alt="JS" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Javascript-shield.svg" height="52px" width="52px">
-  </a> &nbsp; |
-  <a href="https://www.lua.org/">
-   <img alt="Lua" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" height="52px" width="52px">
-  </a> &nbsp; |
-  <a href="https://www.python.org/">
-   <img alt="Bash" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Python-logo.png" height="52px">
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Github" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" alt="Vsc" width="40" height="40"/>
  </p>
 </details>
 
