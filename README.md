@@ -60,16 +60,4 @@
 </details>
 
 <hr> 
-<p align="center">
-  <table>
-    <tr>
-     <td align="center" style="width: 100%;">
-          <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Testers7777&orgs=Shadow-Hoods&layout=compact&show_icons=true&hide_border=true&count_private=true&theme=github_dark&locale=en"></a>
-     </td>
-      <td align="center" style="width: 100%;">
-          <a href="#"><img src="https://github-readme-stats.vercel.app/api/?username=Testers7777&orgs=Shadow-Hoods&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=github_dark&locale=en"></a>
-      </td>
-    </tr>
-  </table>
-</p>
 </blockquote>
