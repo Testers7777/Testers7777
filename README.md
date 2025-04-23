@@ -39,23 +39,9 @@
 
 >>> SYSTEM READY.
 ```
-
-<hr>
- 
-<details open>
-    <summary>
-        <a href="#"><img src="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" height="16px" width="16px"></a> 
-        <b>ABOUT ME : </b>
-    </summary>
-    
-<pre>
-<b>My hobbies</b>
-<a href="https://en.wikipedia.org/wiki/Poetry">📕 Poetry</a>, <a href="https://en.wikipedia.org/wiki/Chess">♟️ Chess</a>, <a href="https://en.wikipedia.org/wiki/Coding">💻 Coding</a>, <a href="https://en.wikipedia.org/wiki/Strength_training">🏋️‍♂️ Gym</a>.
-</pre>
-</details>
  
 <hr> 
-<details>
+<details open>
     <summary>
         <b>🖥️ LANGUAGES AND TOOLS : </b>
     </summary>
@@ -86,5 +72,4 @@
     </tr>
   </table>
 </p>
-<hr>
 </blockquote>
